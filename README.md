@@ -204,18 +204,6 @@ Prototype firmware and documentation are present. Hardware schematics, PCB files
 - PCB design information is not yet provided.
 - Quantitative performance metrics are not yet provided.
 
-## Citation
-
-TODO: Add paper, report, DOI, conference, journal, or publication link if this project has been published.
-
 ## License
 
 This project is released under the MIT License. See [`LICENSE`](LICENSE).
-
-## Author
-
-TODO: Add author name.
-
-## Contact
-
-TODO: Add email, LinkedIn, portfolio, or GitHub profile.
