@@ -1,0 +1,24 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.eep
+*.map
+*.lst
+*.o
+*.d
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
